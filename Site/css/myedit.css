@@ -1,0 +1,39 @@
+.login-page h1 {
+    margin-top: 80px;
+    color: #525050ab
+}
+
+.login-page form {
+    max-width: 300px;
+    margin: auto;
+}
+
+.login-page form input {
+    margin-bottom: 10px;
+}
+
+.login-page .selected {
+    color: #2e6da4;
+    font-size: 48px;
+    font-family: auto;
+    font-weight: 600;
+}
+
+.login-page .sign.selected {
+    color: #398439
+}
+
+.login-page h1 {
+    color: #C0C0C0;
+    font-size: 48px;
+    font-family: auto;
+    font-weight: 600;
+}
+
+.login-page h1 span {
+    cursor: pointer;
+}
+
+.login-page .signup {
+    display: none;
+}

@@ -1,0 +1,184 @@
+        /* Start Main Rules */
+        
+        body {
+            background-color: #F4F4F4;
+            font-size: 18px;
+            background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url("../images/back.jpg");
+            margin: 0;
+            font-family: 'arial';
+            color: #FFF
+        }
+        
+        .asterisk {
+            font-size: 30px;
+            position: absolute;
+            right: 30px;
+            top: 10px;
+            color: #D20707;
+        }
+        /* Start Login Form */
+        
+        .login {
+            width: 400px;
+            margin: 100px auto;
+        }
+        
+        .login h4 {
+            color: #FFF;
+            font-family: Algerian;
+            margin-bottom: 15px;
+            font-size: 40px;
+        }
+        
+        .login input {
+            margin-bottom: 15px;
+        }
+        
+        .login .form-control {
+            background-color: #EAEAEA;
+        }
+        
+        .login .btn {
+            background-color: #008dde;
+        }
+        /* End Login Form */
+        /* Start Bootstrap Edits */
+        
+        .navbar {
+            border-radius: 0px;
+            margin-bottom: 0px;
+        }
+        
+        .nav>li>a,
+        .navbar-brand {
+            padding: 15px 12px;
+        }
+        
+        .navbar-brand {
+            font-size: 20px;
+        }
+        
+        .navbar-inverse .navbar-nav>li>a {
+            color: #eee;
+        }
+        
+        .navbar-inverse .navbar-nav>.open>a:focus,
+        .navbar-inverse .navbar-nav>.open>a:hover,
+        .dropdown-menu {
+            background-color: #99b9d4;
+        }
+        
+        .dropdown-menu {
+            min-width: 180px;
+            padding: 0px;
+            font-size: 18px;
+            border: none;
+            border-radius: 5px;
+        }
+        
+        .dropdown-menu>li>a {
+            color: #FFF;
+            padding: 10px 15px;
+            background-color: #08324b;
+        }
+        /* End Bootstrap Edits */
+        /* Start Profile Page */
+        
+        .form-horizontal {
+            margin-left: 200px;
+        }
+        
+        h1 {
+            font-size: 50px;
+            margin: 40px 0px;
+            font-weight: bold;
+            color: #FFF;
+        }
+        
+        .form-horizontal .form-group-lg .control-label {
+            color: #FFF;
+        }
+        
+        .form-horizontal .btn {
+            justify-content: center;
+        }
+        
+        .table>tbody>tr>td,
+        .table>tbody>tr>th,
+        .table>tfoot>tr>td,
+        .table>tfoot>tr>th,
+        .table>thead>tr>td,
+        .table>thead>tr>th {
+            color: #FFF;
+        }
+        
+        .table-bordered>tbody>tr>td,
+        .table-bordered>tbody>tr>th,
+        .table-bordered>tfoot>tr>td,
+        .table-bordered>tfoot>tr>th,
+        .table-bordered>thead>tr>td,
+        .table-bordered>thead>tr>th {
+            color: #FFF;
+        }
+        /*End Profile Page */
+        /* Products Page */
+        
+        .btn {
+            background-color: none
+        }
+        
+        .manage-product img {
+            width: 60px;
+            height: 60px;
+        }
+        
+        .manage-product1 img {
+            width: 70px;
+            height: 70px
+        }
+        /* Dashboard Page */
+        
+        .home-stats .stat {
+            color: #FFF;
+            padding: 20px;
+            font-size: 15px;
+            border-radius: 10px;
+            margin-bottom: 5px
+        }
+        
+        .home-stats .stat a {
+            color: #FFF
+        }
+        
+        .home-stats .stat a:hover {
+            text-decoration: none;
+        }
+        
+        .home-stats .stat span {
+            display: block;
+            font-size: 50px;
+        }
+        
+        .home-stats .st-members {
+            background-color: #3498db
+        }
+        
+        .home-stats .st-admin {
+            background-color: #c0392b
+        }
+        
+        .home-stats .st-product {
+            background-color: #d35400
+        }
+        
+        .home-stats .st-order {
+            background-color: #8e44ad
+        }
+        
+        .latest {
+            margin-top: 30px;
+            color: #000
+        }
+        .home-stats .stat{
+            font-size: 24px;
+        }
