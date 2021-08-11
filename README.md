@@ -1,2 +1,2 @@
 # PowerPack
-Web Site For Shoping
+Web Site For Shopping
